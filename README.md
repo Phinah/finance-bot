@@ -1,4 +1,4 @@
-# 💸 Finance Education Assistant (TinyLlama + LoRA)
+#  Finance Education Assistant (TinyLlama + LoRA)
 
 A domain-specific financial education assistant built by fine-tuning **TinyLlama-1.1B-Chat** using **LoRA (Low-Rank Adaptation)**.
 
@@ -6,7 +6,7 @@ This project demonstrates how a general-purpose LLM can be adapted into a compli
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The goal of this project was to:
 
@@ -19,7 +19,7 @@ The goal of this project was to:
 
 ---
 
-# 🌐 Live Demo
+#  Live Demo
 
 You can interact with the deployed assistant here:
 
@@ -35,7 +35,7 @@ Example prompts to try:
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 The dataset consists of:
 
@@ -65,7 +65,7 @@ For experimentation efficiency:
 
 ---
 
-# 🧠 Fine-Tuning Methodology
+#  Fine-Tuning Methodology
 
 ## Base Model
 TinyLlama/TinyLlama-1.1B-Chat-v1.0
@@ -96,7 +96,7 @@ Training was performed on a Google Colab T4 GPU.
 
 ---
 
-# 📈 Performance Metrics
+# Performance Metrics
 
 - Validation Loss: **0.36716**
 - Perplexity: **1.4436**
@@ -107,7 +107,7 @@ Low perplexity suggests improved domain coherence and response confidence.
 
 ---
 
-# 🔍 Base vs Fine-Tuned Comparison
+#  Base vs Fine-Tuned Comparison
 
 ## Prompt 1: Educational Question
 
@@ -193,7 +193,7 @@ This confirms successful domain adaptation using LoRA.
 
 ---
 
-# 🖥️ Running the Project Locally
+#  Running the Project Locally
 
 ## Install Dependencies
 

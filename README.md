@@ -23,7 +23,7 @@ The goal of this project was to:
 
 You can interact with the deployed assistant here:
 
-👉 **Gradio UI:**  
+ **Gradio UI:**  
 https://2a8cc1a00a224342ba.gradio.live
 
 Example prompts to try:
@@ -222,3 +222,5 @@ Load base TinyLlama
 Attach LoRA adapter
 
 Start Gradio server
+
+![Gradio Interface](image.png)

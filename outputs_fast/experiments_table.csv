@@ -1,0 +1,2 @@
+exp,lr,r,alpha,dropout,epochs,max_len,train_examples,val_examples,eval_loss,perplexity,train_minutes
+exp1_r8_lr2e-4,0.0002,8,16,0.05,1,256,500,60,0.36716029047966003,1.4436293006036027,1.51
